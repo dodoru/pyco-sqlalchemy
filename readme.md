@@ -6,6 +6,11 @@ Using `CoModel` to make SqlAlchemy's ORM even simpler for humans, develop with F
 note: 不管在使用任何 web 框架, 我都希望能有统一的 ORM 查询接口, 且易于在不同的数据库间迁移.  
 
 
+## install
+
+pip install pyco-sqlalchemy
+
+
 ## Tips:
 - use `charset=UTF8MB4 collate utf8_general_ci`
 
